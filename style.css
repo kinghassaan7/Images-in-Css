@@ -1,0 +1,81 @@
+/* SIZE OF IMAGES */
+/* img{
+    width: 250px;
+    height: 250px;
+} */
+
+/* ALIGNING IMAGES */
+/* img{
+    margin-left: 200px;
+} */
+
+/* img{
+    float: right;
+} */
+
+/* CENTERING IMAGES */
+/* img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+} */
+
+/* BACKGROUND IMAGES */
+/* body{
+    background-image: url(./images/bari-bike.webp);
+} */
+
+/* BACKGROUND REPEAT */
+/* body{
+    font-size: xx-large;
+    background-image: url(./images/bari-bike.webp);
+    background-attachment: fixed;
+} */
+
+/* BACKGROUND POSITION */
+/* body{
+    background-image: url('./images/choti-bike.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+} */
+
+/* BACKGROUND SHORTHAND */
+/* body{
+    background: #ffffff url(./images/choti-bike.jpeg) no-repeat top right;
+} */
+
+/* GRADIENTS */
+
+/* Linear Gradient */
+/* body{
+  
+    background-image: linear-gradient(red,yellow);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+/* #gradient-container{
+    width: 400px;
+    height: 400px;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    margin: auto;
+} */
+
+/* Radial Gradient */
+/* #gradient-container{
+    width: 400px;
+    height: 400px;
+    background-image: radial-gradient(red,yellow,green);
+    margin: auto;
+} */
+
+/* Conical Gradient */
+/* #gradient-container{
+    width: 400px;
+    height: 400px;
+    background-image: conic-gradient(red 0deg, red 90deg, yellow 90deg, yellow 180deg, green 180deg, green 270deg, blue 270deg);
+    border-radius: 50%;
+    margin: auto;
+} */
